@@ -8,10 +8,9 @@ Currently working for CPqD on Dojot project (http://dojot.com.br/) as a DevOps i
 <p align="center">
   <img width="10%" src="https://kubernetes.io/images/favicon.png">
   <img width="10%" src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png">
-  <img width="10%" src="https://www.pngitem.com/pimgs/m/27-272595_docker-compose-docker-compose-logo-hd-png-download.png">
   <img width="10%" src="https://www.mbejda.com/content/images/2016/01/ans.png">
   <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png">
-  <img width="11%" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+  <img width="10%" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
 </p>
 
 <!--
