@@ -2,7 +2,7 @@
 
 Currently working for CPqD on Dojot project (http://dojot.com.br/) as a DevOps intern
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianoleonardo&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianoleonardo&show_icons=true&theme=gotham)
 
 #### :computer: Main Tools: 
 <p align="center">
