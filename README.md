@@ -3,8 +3,8 @@
 Currently working for CPqD on Dojot project (http://dojot.com.br/) as a DevOps intern
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianoleonardo&show_icons=true&theme=gotham)
-[comment]: # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[comment]: # ![Leo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianoleonardo&show_icons=true&theme=gotham)
+[comment]: <> ( &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;)
+[comment]: <> ( ![Leo's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marianoleonardo&show_icons=true&theme=gotham))
 
 #### :computer: Main Tools: 
 <p align="center">
