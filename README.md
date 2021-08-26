@@ -1,6 +1,6 @@
 ### Hi, I'm Leo. 👋
 
-Currently working for CPqD on Dojot project (http://dojot.com.br/) as a DevOps intern
+Currently working for CPqD on Dojot project (https://dojot.com.br/) as a DevOps analyst
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marianoleonardo&show_icons=true&theme=gotham)
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
