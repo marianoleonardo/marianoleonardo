@@ -12,7 +12,8 @@ Currently working for CPqD on Dojot project (https://dojot.com.br/) as a DevOps 
   <img align="left" img width="10%" src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png">
   <img align="left" img width="10%" src="https://www.mbejda.com/content/images/2016/01/ans.png">
   <img align="left" img width="10%" src="https://www.drupal.org/files/project-images/aws-logo.png">
-  <img align="left" img width="10%" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png">
+  <img align="left" img width="10%" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png">  
+  <img align="left" img width="10%" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4">
 <!--   <img align="left" img width="9%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png">
   <img align="left" img width="10%" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"> -->
 </p>
